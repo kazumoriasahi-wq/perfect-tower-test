@@ -5,3 +5,8 @@
 .language-row[hidden]{display:none!important}
 
 html[lang=en] .result{font-size:64px}html[lang=en] .result small{font-size:12px}
+
+#startup{position:fixed;inset:0;z-index:20;display:grid;align-content:center;justify-items:center;text-align:center;padding:30px;background:#101c29}#startup[hidden]{display:none}#saveNotice{font-size:11px;color:#dfcca4;text-align:center}[hidden]{display:none!important}
+
+/* Sunny candy palette; identical layout and input targets. */
+html{background:#e2f7ff;color:#24486a}body{background:radial-gradient(ellipse at 10% 12%,#fff6bc,transparent 50%),linear-gradient(#dcf6ff,#f4edff)}.eyebrow,.numbers span,.numbers small,.subtitle,footer{color:#526b8a}h1{font-weight:800}.numbers strong{font-weight:750;color:#3164a5}button{background:#fff9;border-color:#a7cce3;color:#294f78}button:focus-visible{outline-color:#e66b96}.stage{background:#bceaff;border:3px solid #fff;box-shadow:0 12px 35px #6092b52b}.primary{background:#ffcb57;color:#4a3c30;box-shadow:0 5px 0 #e9a542;font-weight:800}#welcome{background:linear-gradient(#e3faffeb,#fff5daee)}h2{font-weight:800;color:#345f91}#welcome p,#welcome small,dialog p,.muted{color:#4b6685!important}.drop{background:#ffb2ca;color:#613e69;font-weight:800;box-shadow:0 5px 0 #e88eaf}.stage-foot span{color:#345f81}.stage-foot button{background:#ffffffe8}#callout{color:#9b3a83;text-shadow:0 2px 0 #fff,0 0 18px #fff;font-weight:900}#callout small{color:#335b84}dialog{background:#f6fbff;color:#294f78;border:3px solid white}.result{color:#bd4f88;font-weight:800}.stats{color:#4b6685}.setting input{accent-color:#da649a}.language-row{color:#526b8a}.language-row select{background:#fff;color:#294f78}#startup{background:#e2f7ff;color:#294f78}#saveNotice{color:#875333}
