@@ -1,2 +1,3 @@
-# perfect-tower-test
-ぴったりタワー / PERFECT TOWER — elegant one-tap stacking with perfect chains, original music and optional vibration.
+# PERFECT TOWER — SKY ATELIER
+
+Owner-approved illustrated upgrade. Atelier mode adds focus (two seconds at40% speed), width recovery after every third consecutive perfect, three once-per-run goals and unlockable finishes. Classic exactly retains the original engine/scoring. Records remain separate. Legacy schema1 best/score/audio/haptic data is retained in the Classic record and legacy object; independent test records are not imported. Browser keys: kazu_play_tower_perfect_tower_v1 (portal), perfect_tower_v1 (SDK preview). Hosted loads use SDK cloud only and host language/audio, with guarded pause/resume, readiness, load retry, dirty save retry and height-only leaderboard reporting. All images are local. This is an SDK integration, not a notice of YouTube approval/publication.
